@@ -1,0 +1,16 @@
+C:\Pedro\repos\Stock\Stock\bin\Debug\net5.0\Stock.exe
+C:\Pedro\repos\Stock\Stock\bin\Debug\net5.0\Stock.deps.json
+C:\Pedro\repos\Stock\Stock\bin\Debug\net5.0\Stock.runtimeconfig.json
+C:\Pedro\repos\Stock\Stock\bin\Debug\net5.0\Stock.runtimeconfig.dev.json
+C:\Pedro\repos\Stock\Stock\bin\Debug\net5.0\Stock.dll
+C:\Pedro\repos\Stock\Stock\bin\Debug\net5.0\ref\Stock.dll
+C:\Pedro\repos\Stock\Stock\bin\Debug\net5.0\Stock.pdb
+C:\Pedro\repos\Stock\Stock\obj\Debug\net5.0\Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pedro\repos\Stock\Stock\obj\Debug\net5.0\Stock.AssemblyInfoInputs.cache
+C:\Pedro\repos\Stock\Stock\obj\Debug\net5.0\Stock.AssemblyInfo.cs
+C:\Pedro\repos\Stock\Stock\obj\Debug\net5.0\Stock.csproj.CoreCompileInputs.cache
+C:\Pedro\repos\Stock\Stock\obj\Debug\net5.0\Stock.dll
+C:\Pedro\repos\Stock\Stock\obj\Debug\net5.0\ref\Stock.dll
+C:\Pedro\repos\Stock\Stock\obj\Debug\net5.0\Stock.pdb
+C:\Pedro\repos\Stock\Stock\obj\Debug\net5.0\Stock.genruntimeconfig.cache
+C:\Pedro\repos\Stock\Stock\obj\Debug\net5.0\Stock.csproj.AssemblyReference.cache

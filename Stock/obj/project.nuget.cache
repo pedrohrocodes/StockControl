@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nbvwef1tIeTqsVJQBIMWAvyCvMNb7BmQV0jR+FUnBePk1N7qdCpX05RlhvyXw5iSHRCqRckui17k0jkkGU83XA==",
+  "success": true,
+  "projectFilePath": "C:\\Pedro\\repos\\Stock\\Stock\\Stock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DBServerSP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
