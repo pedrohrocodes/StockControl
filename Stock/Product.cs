@@ -10,10 +10,6 @@ namespace Stock {
         public double Price { get; private set; }
         public int Quantity { get; private set; }
 
-        public Product() {
-
-        }
-
         public Product(string name, double price, int quantity) {
             this.Name = name;
             this.Price = price;
